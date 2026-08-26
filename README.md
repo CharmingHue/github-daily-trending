@@ -1,6 +1,6 @@
 # GitHub 每日热榜
 
-![GitHub 每日热榜横幅](assets/github-daily-trending-banner.png)
+![GitHub 每日热榜横幅](assets/github-daily-trending-banner.svg)
 
 自动生成并发布 GitHub Trending 今日热榜的静态网站。
 
